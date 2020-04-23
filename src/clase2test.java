@@ -10,6 +10,7 @@ class clase2Test {
 		int resultado=clase2.metodo(array);
 		assertEquals(resultado,5);
 	}
+	
 	@Test
 	void test1() {
 		int [] lista =new int [3];
