@@ -1,15 +1,11 @@
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 /**
- * essta clase hace distintas pruebas con la clase2.java
+ * esta clase realiza pruebas de clase2.java
  * @author ruben
  *
  */
-
-
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
-
-class clase2Test {
+public class clase2Test {
 	/**
 	 * este metodo comprueba que se realiza bien la media 
 	 */
